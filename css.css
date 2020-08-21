@@ -1,0 +1,27 @@
+html{
+    background-color: #D1CCDC;
+}
+
+
+h1{
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+    text-shadow: 18px 15px #424C55;
+}
+
+
+/* div { width: 100px; height: 50px; border: solid black 4px; } */
+
+div{
+    border: 10px solid #7C5869;
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    color: #424C55;
+}
